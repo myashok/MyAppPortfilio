@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App portfolio</string>
+    <string name="IIITA_Transport">IIIT-A Transport</string>
+    <string name="musicPlayer">Spotify Streamer</string>
+    <string name="scoreapp">Score App</string>
+    <string name="libraryapp">Library App</string>
+    <string name="EbookReader">Ebook Reader</string>
+</resources>
